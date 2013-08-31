@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ri",
+				"right_ric"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"minisite",
+				"minisite_barra_der"
+			],
+			[
+				"rq",
+				"reqs"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"s",
+				"disc"
+			],
+			[
+				"mini",
+				"minisite_proximos_eventos"
+			],
+			[
+				"more_info",
+				"more_info_span_cabc"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"menu",
+				"menu_top_minisite"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git: status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/muneco/Sites/carrioncruz/carrioncruz/carrioncruz/settings.py",
+		"/Users/muneco/Sites/carrioncruz/carrioncruz/projects/models.py",
+		"/Users/muneco/Sites/carrioncruz/carrioncruz/carrioncruz/urls.py",
+		"/Users/muneco/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_plazaeste_principal/default.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_gbt_principal/default.ctp",
+		"/Users/muneco/Sites/carrioncruz/sites/default/settings.php",
+		"/Users/muneco/Documents/Projects/ModularArquitectura/modulararquitectura.com/index.html",
+		"/Users/muneco/Sites/carrioncruz/sites/default/default.settings.php",
+		"/Users/muneco/Sites/carrioncruz/web.config",
+		"/Users/muneco/Sites/carrioncruz/sites/all/themes/omega/omega/includes/omega.inc",
+		"/Users/muneco/Sites/index.php",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/layouts/default_mobi.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/home/default_mobi.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/generic/footer_mobi.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/generic/header_mobi.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/webroot/css/mobi.css",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/Archivos/Navigataur-master/navigataur.css",
+		"/Users/muneco/Documents/Projects/HMVP/HMVP/hmvpfinal.sql",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/resources/list_view/article_mobi.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/resources/view/article_mobi.ctp",
+		"/Users/muneco/Documents/Projects/AmazingNicaragua.com/proximamente_code/index.html",
+		"/Users/muneco/Documents/Projects/AmazingNicaragua.com/proximamente_code/css/style.css",
+		"/Users/muneco/Downloads/initializr/index.html",
+		"/Users/muneco/Documents/Projects/CarrionCruz.com/comingsoon/index.html",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_terra_segundaetapa/default.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_terra_principal/default.ctp",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/tiptop/promociones/index.html",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/tiptop/reglamento/css/website.css",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/tiptop/reglamento/index.html",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/tiptop/reglamento/css.css",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Las Mercedes/NEW/bienvenido/index.html",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_reforma_principal/default.ctp",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/demo/css/jquery.mobile-1.2.0.css",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/demo/css/jquery.mobile-1.2.0.min.css",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/demo/css/style.css",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/demo/css/jquery.mobile.structure-1.2.0.min.css",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/demo/css/jquery.mobile.theme-1.2.0.min.css",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/demo/index.html",
+		"/Users/muneco/Documents/Projects/Creativos/luptree/code/index.html",
+		"/Users/muneco/Documents/Projects/contabilidad/openerp-7.0-20130302-002131/openerp/conf/__init__.py",
+		"/Users/muneco/Documents/Projects/contabilidad/openerp-7.0-20130302-002131/openerp/conf/deprecation.py",
+		"/Users/muneco/Documents/Projects/contabilidad/openerp-7.0-20130302-002131/openerp/cli/server.py",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/sections/definitions/column_cd/admin.ctp",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/laprensafeeds/index.html",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/laprensafeeds/feed.php",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/laprensafeeds/js.js",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/rssfeed/index.php",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/rssfeed/feed-paginator.js",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/rssfeed/feed-paginator.php",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/laprensafeeds/css.css",
+		"/Users/muneco/Documents/Projects/Jaime Ibarra/Demo fb_apps/lector/blog.php",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_newsletter_icreportes/default.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/resources/more_resources_box_rotator.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/sections/definitions/column_cd/business_commerce.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/product/listingfooter.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/webroot/css/new.css",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/product/prebuy_tender.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/elements/resources/more_resources_box_list.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/minisite_cabc/default.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_snippet_cd_reportes/default.ctp",
+		"/Users/muneco/Documents/Projects/CentralAmericaData.com/SVN_CAD/views/static/test_ic_reportes_c/default.ctp",
+		"/Users/muneco/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/muneco/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/muneco/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/muneco/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#content",
+			"@media only screen and (max-width: 768px)",
+			"#content",
+			"spacer",
+			"footer",
+			"article_tools",
+			"article_body",
+			"h1.title_news",
+			"menu_mobile",
+			"toggle",
+			"#51C1F1",
+			"@media only screen and (max-width: 768px)\n.toggle:after",
+			".nav",
+			"header",
+			"footer",
+			"body",
+			"list_view_link",
+			"header",
+			"word-wrap: break-word;",
+			"header_right",
+			"search_box",
+			"section_vertical_one",
+			"content",
+			"font-size",
+			"size",
+			"search",
+			"input",
+			"div.search_box",
+			"logo_summanews",
+			"div.form_reforma_banner_pri input",
+			"header",
+			"reforma_banner_pri_show_step_1",
+			"div.form_contacto_alacat2012_princip .btn_submit_contact_company",
+			"header",
+			"ui-btn-inner",
+			"logo",
+			"media",
+			".ui-body-c",
+			".ui-overlay-c",
+			".ui-body-c, .ui-overlay-c",
+			"terra",
+			"mas noticias",
+			"html",
+			".footer",
+			".rotator_ic .left_ric h2",
+			"slide_ic_cd",
+			"slide_ic_cd_slide",
+			"rotator_ic",
+			"alacat2012princip_show_step_1",
+			"alacat2012princip_params",
+			"exportaciones",
+			".rotator_ic",
+			"noticias",
+			"minisite_barra_der",
+			"minisite_minisite_menu_lateral_der",
+			"linea_division",
+			"more_info_url_cabc",
+			"more_info_cabc",
+			"minisite",
+			"table.inproca_c_banner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}
